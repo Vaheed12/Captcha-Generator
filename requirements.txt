@@ -1,0 +1,4 @@
+Tkinter
+string
+pyperclip
+python
