@@ -2,7 +2,7 @@ app:
   name: Captcha Generator
   description: A simple Tkinter-based GUI app to generate secure random CAPTCHAs.
   version: 1.0.0
-  author: Your Name
+  author: Vaheed Shaik
   license: MIT
 
 dependencies:
